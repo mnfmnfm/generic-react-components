@@ -38,6 +38,6 @@ This component displays a piece of information on the page. It takes in one prop
 This component displays a form with a single input and a submit button. When the user clicks the submit button, a POST request is sent to the provided URL, and the response data is passed as an argument to the afterSubmitted callback.
 
 ##### Props
-- `inputName` (string) **required**: the name of the single form input to be sent in the request to the backend.
+- `inputName` (string) **required**: the name of the single form input to be sent as the key in the request to the backend.
 - `submitURL` (string) **required**: the URL at which to POST data.
 - `afterSubmitted` (function) **required**: a callback to be executed after the new data has been posted to the server.
