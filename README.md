@@ -19,6 +19,10 @@ import {InformationDisplayer, CreateOneItemForm} from 'michelle-generic-react-co
 
 ```
 
+## Demo App
+
+Find a working demo app [here](https://github.com/mnfmnfm/demo-generic-react-components).
+
 ## Documentation
 
 ### InformationDisplayer component
