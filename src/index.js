@@ -3,7 +3,9 @@ import axios from 'axios';
 class InformationDisplayer extends Component {
   render() {
     return (
-      <div>{ this.props.information }</div>
+      <div className="information-displayer">
+        { this.props.information }
+      </div>
     );
   }
 }

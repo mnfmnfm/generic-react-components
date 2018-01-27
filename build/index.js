@@ -117,7 +117,7 @@ var InformationDisplayer = function (_Component) {
     value: function render() {
       return _react2.default.createElement(
         'div',
-        null,
+        { className: 'information-displayer' },
         this.props.information
       );
     }
