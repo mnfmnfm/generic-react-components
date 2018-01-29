@@ -1,11 +1,8 @@
 {
   "name": "michelle-generic-react-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Some generic React components",
   "main": "build/index.js",
-  "peerDependencies": {
-    "react": "^15.5.4"
-  },
   "dependencies": {
     "axios": "^0.17.1",
     "react": "^15.5.4",
